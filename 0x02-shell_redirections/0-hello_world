@@ -1,3 +1,2 @@
 #!/bin/bash
-0-hello_world
-pwd >>“Hello, World”
+pwd
